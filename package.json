@@ -1,0 +1,19 @@
+{
+  "name": "fuzzy-coordinates-matching",
+  "version": "1.0.0",
+  "description": "Fuzzy coordinates matching proof of concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielSola/fuzzy-coordinates-matching.git"
+  },
+  "author": "Daniel Solá",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielSola/fuzzy-coordinates-matching/issues"
+  },
+  "homepage": "https://github.com/DanielSola/fuzzy-coordinates-matching#readme"
+}
