@@ -4,7 +4,8 @@
   "description": "Fuzzy coordinates matching proof of concept",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules index.mjs"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DanielSola/fuzzy-coordinates-matching/issues"
   },
-  "homepage": "https://github.com/DanielSola/fuzzy-coordinates-matching#readme"
+  "homepage": "https://github.com/DanielSola/fuzzy-coordinates-matching#readme",
+  "dependencies": {
+    "cheap-ruler": "^2.5.1"
+  }
 }
